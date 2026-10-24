@@ -1,0 +1,8 @@
+{
+  "name": "AI Resume Analyzer & Job Matching Platform",
+  "description": "A career-tech platform for resume ATS evaluation, skill-gap analysis, personalized learning roadmaps, and intelligent job matching for B.Tech CSE students.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
